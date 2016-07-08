@@ -1,0 +1,16 @@
+{
+    "name": "jsdecena/mcpro",
+    "description": "Municipalities, Cities and Provinces package for the Philippines.",
+	"autoload": {
+	        "psr-4": {
+	            "Jsdecena\\MCPro\\": "src/"
+	        }
+	    },    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeff Simons Decena",
+            "email": "jeff.decena@yahoo.com"
+        }
+    ]
+}
