@@ -1,6 +1,6 @@
 # MCPro is abbreviation of Municipalities, Cities and Provinces in the Philippines
 
-### A very basic API for getting all the cities, municipality and provinces in the Philippines.
+### A basic RESTful API for getting all the cities, municipality and provinces in the Philippines.
 
 ### Installation
 
