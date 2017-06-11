@@ -16,8 +16,8 @@ class CreateCountryTable extends Migration
             $table->increments('id');
             $table->string('name');
             $table->string('iso');
-            $table->string('iso3');
-            $table->integer('numcode');
+            $table->string('iso3')->nullable();
+            $table->integer('numcode')->nullable();
             $table->integer('phonecode');
             $table->integer('status');
             $table->timestamps();

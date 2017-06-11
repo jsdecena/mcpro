@@ -11,7 +11,14 @@ class Country extends Model
      *
      * @var array
      */
-    protected $fillable = [];
+    protected $fillable = [
+        'name',
+        'iso',
+        'iso3',
+        'numcode',
+        'phonecode',
+        'status'
+    ];
 
     /**
      * The attributes that should be hidden for arrays.

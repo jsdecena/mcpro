@@ -11,7 +11,9 @@ class Province extends Model
      *
      * @var array
      */
-    protected $fillable = [];
+    protected $fillable = [
+        'name'
+    ];
 
     /**
      * The attributes that should be hidden for arrays.

@@ -18,11 +18,13 @@ class McproServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+        $this->publishes([
+            __DIR__.'/database/migrations' => database_path('migrations')
+        ], 'migrations');
+
 	    $this->publishes([
-	        __DIR__.'/database/migrations' 		=> database_path('migrations'),
-	        __DIR__.'/database/seeds' 			=> database_path('seeds'),
-	        __DIR__.'/Models' 					=> app_path('Models')
-	    ]);
+	        __DIR__.'/database/seeds' => database_path('seeds')
+	    ], 'seed');
     }
 
     /**

@@ -9,7 +9,7 @@
 ```json
 
 	"require": {
-	    "jsdecena/mcpro": "1.0.*"
+	    "jsdecena/mcpro": "1.1.*"
 	}
 
 ```
