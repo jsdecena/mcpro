@@ -1,3 +1,8 @@
+[![Total Downloads](https://poser.pugx.org/jsdecena/mcpro/downloads)](https://packagist.org/packages/jsdecena/mcpro)
+[![Latest Stable Version](https://poser.pugx.org/jsdecena/mcpro/v/stable)](https://packagist.org/packages/jsdecena/mcpro)
+[![License](https://poser.pugx.org/jsdecena/mcpro/license)](https://packagist.org/packages/jsdecena/mcpro)
+[![Monthly Downloads](https://poser.pugx.org/jsdecena/mcpro/d/monthly)](https://packagist.org/packages/jsdecena/mcpro)
+
 ## MCPro is abbreviation of Municipalities, Cities and Provinces in the Philippines
 
 ### A basic RESTful API for getting all the cities, municipality and provinces in the Philippines.
