@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\MCPro\Http\Controllers\Api;
+namespace LowBlow\MCPro\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use Jsdecena\MCPro\Models\Province;

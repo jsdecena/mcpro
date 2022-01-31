@@ -1,6 +1,6 @@
 <?php 
 
-namespace Jsdecena\MCPro;
+namespace LowBlow\MCPro;
 
 use Illuminate\Support\ServiceProvider;
 

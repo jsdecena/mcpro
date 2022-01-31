@@ -1,11 +1,16 @@
-[![Total Downloads](https://poser.pugx.org/jsdecena/mcpro/downloads)](https://packagist.org/packages/jsdecena/mcpro)
-[![Latest Stable Version](https://poser.pugx.org/jsdecena/mcpro/v/stable)](https://packagist.org/packages/jsdecena/mcpro)
-[![License](https://poser.pugx.org/jsdecena/mcpro/license)](https://packagist.org/packages/jsdecena/mcpro)
-[![Monthly Downloads](https://poser.pugx.org/jsdecena/mcpro/d/monthly)](https://packagist.org/packages/jsdecena/mcpro)
+[//]: # ([![Total Downloads]&#40;https://poser.pugx.org/jsdecena/mcpro/downloads&#41;]&#40;https://packagist.org/packages/jsdecena/mcpro&#41;)
 
-## MCPro is abbreviation of Municipalities, Cities and Provinces in the Philippines
+[//]: # ([![Latest Stable Version]&#40;https://poser.pugx.org/jsdecena/mcpro/v/stable&#41;]&#40;https://packagist.org/packages/jsdecena/mcpro&#41;)
 
-### A basic RESTful API for getting all the cities, municipality and provinces in the Philippines.
+[//]: # ([![License]&#40;https://poser.pugx.org/jsdecena/mcpro/license&#41;]&#40;https://packagist.org/packages/jsdecena/mcpro&#41;)
+
+[//]: # ([![Monthly Downloads]&#40;https://poser.pugx.org/jsdecena/mcpro/d/monthly&#41;]&#40;https://packagist.org/packages/jsdecena/mcpro&#41;)
+
+## MCPro is abbreviation of Municipalities, Cities and Provinces in the Russia. 
+
+###(Package forked from jsdecena/MCPro - Jeff Simons Decena )
+
+### A basic RESTful API for getting all the cities, municipality and provinces in the Russia.
 
 ### Installation
 
@@ -14,7 +19,7 @@
 ```json
 
 	"require": {
-	    "jsdecena/mcpro": "1.1.*"
+	    "low-blow/mcpro": "1.1.*"
 	}
 
 ```
@@ -24,7 +29,7 @@
 ```json
 
 	'providers' => [
-	    Jsdecena\MCPro\McproServiceProvider::class,
+	    LowBlow\MCPro\McproServiceProvider::class,
 	]
 
 ```

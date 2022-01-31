@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\MCPro\Models;
+namespace LowBlow\MCPro\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

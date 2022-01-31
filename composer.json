@@ -1,15 +1,15 @@
 {
-    "name": "jsdecena/mcpro",
-    "description": "Municipalities, Cities and Provinces package for the Philippines.",
+    "name": "low-blow/mcpro",
+    "description": "Municipalities, Cities and Provinces package for the Russia.",
 	"autoload": {
 	        "psr-4": {
-	            "Jsdecena\\MCPro\\": "src/"
+	            "LowBlow\\MCPro\\": "src/"
 	        }
 	    },    
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeff Simons Decena",
+            "name": "Sergey Fadeev",
             "email": "jeff.decena@yahoo.com"
         }
     ]
