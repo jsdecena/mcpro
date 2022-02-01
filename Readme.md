@@ -8,7 +8,7 @@
 
 ## MCPro is abbreviation of Municipalities, Cities and Provinces in the Russia. 
 
-###(Package forked from jsdecena/MCPro - Jeff Simons Decena )
+### (Package forked from jsdecena/MCPro - Jeff Simons Decena )
 
 ### A basic RESTful API for getting all the cities, municipality and provinces in the Russia.
 
@@ -81,9 +81,7 @@
 
 ### Credits:
 
-- Oj Tibi on [PH Provinces and Cities](https://github.com/ojtibi/philippine-provinces-and-cities-sql) for the data.
-
-- Eacomm on [PH Barangays](http://blog.eacomm.com/archives/554/philippine-barangays-lookup-table) - for the list of barangays in the Philippines.
+- Jeff Simons Decena for a basic package (Cities of the Philippines).
 
 ### DISCLAIMER
 
