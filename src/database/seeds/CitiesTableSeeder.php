@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 
 class CitiesTableSeeder extends Seeder
@@ -11,7 +13,7 @@ class CitiesTableSeeder extends Seeder
      */
     public function run()
     {
-		\DB::table('cities')->insert(array (
+        \DB::table('cities')->insert(array(
             0 => array
             (
                 'id' => '0',
@@ -11271,6 +11273,6 @@ class CitiesTableSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
                 'status' => '0',
             ),
-		));
+        ));
     }
 }

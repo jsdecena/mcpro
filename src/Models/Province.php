@@ -24,11 +24,11 @@ class Province extends Model
 
     public function country()
     {
-    	return $this->belongsTo('Jsdecena\MCPro\Models\Country');
+    	return $this->belongsTo('LowBlow\MCPro\Models\Country');
     }
 
     public function cities()
     {
-    	return $this->hasMany('Jsdecena\MCPro\Models\City');
-    }    
+    	return $this->hasMany('LowBlow\MCPro\Models\City');
+    }
 }

@@ -3,8 +3,8 @@
 namespace LowBlow\MCPro\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
-use Jsdecena\MCPro\Models\Country;
-use Jsdecena\MCPro\Models\Province;
+use LowBlow\MCPro\Models\Country;
+use LowBlow\MCPro\Models\Province;
 
 class ProvincesApiController extends Controller
 {

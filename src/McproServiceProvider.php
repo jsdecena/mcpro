@@ -23,7 +23,7 @@ class McproServiceProvider extends ServiceProvider
         ], 'migrations');
 
 	    $this->publishes([
-	        __DIR__.'/database/seeds' => database_path('seeds')
+	        __DIR__.'/database/seeds' => database_path('seeders')
 	    ], 'seed');
     }
 

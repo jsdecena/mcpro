@@ -22,11 +22,11 @@ class City extends Model
 
     public function province()
     {
-    	return $this->belongsTo('Jsdecena\MCPro\Models\Province');
+    	return $this->belongsTo('LowBlow\MCPro\Models\Province');
     }
 
     public function barangays()
     {
-    	return $this->hasMany('Jsdecena\MCPro\Models\Barangay');
+    	return $this->hasMany('LowBlow\MCPro\Models\Barangay');
     }
 }

@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 
 class ProvincesTableSeeder extends Seeder
@@ -12,7 +14,7 @@ class ProvincesTableSeeder extends Seeder
     public function run()
     {
         \DB::table('provinces')->insert(array(
-            0 => Array
+            0 => array
             (
                 'id' => '2',
                 'country_id' => '0',
@@ -22,7 +24,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            1 => Array
+            1 => array
             (
                 'id' => '3',
                 'country_id' => '0',
@@ -32,7 +34,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            2 => Array
+            2 => array
             (
                 'id' => '4',
                 'country_id' => '0',
@@ -42,7 +44,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            3 => Array
+            3 => array
             (
                 'id' => '5',
                 'country_id' => '0',
@@ -52,7 +54,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            4 => Array
+            4 => array
             (
                 'id' => '6',
                 'country_id' => '0',
@@ -62,7 +64,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            5 => Array
+            5 => array
             (
                 'id' => '7',
                 'country_id' => '0',
@@ -72,7 +74,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            6 => Array
+            6 => array
             (
                 'id' => '8',
                 'country_id' => '0',
@@ -82,7 +84,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            7 => Array
+            7 => array
             (
                 'id' => '9',
                 'country_id' => '0',
@@ -92,7 +94,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            8 => Array
+            8 => array
             (
                 'id' => '10',
                 'country_id' => '0',
@@ -102,7 +104,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            9 => Array
+            9 => array
             (
                 'id' => '11',
                 'country_id' => '0',
@@ -112,7 +114,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            10 => Array
+            10 => array
             (
                 'id' => '12',
                 'country_id' => '0',
@@ -122,7 +124,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            11 => Array
+            11 => array
             (
                 'id' => '13',
                 'country_id' => '0',
@@ -132,7 +134,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            12 => Array
+            12 => array
             (
                 'id' => '14',
                 'country_id' => '0',
@@ -142,7 +144,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            13 => Array
+            13 => array
             (
                 'id' => '15',
                 'country_id' => '0',
@@ -152,7 +154,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            14 => Array
+            14 => array
             (
                 'id' => '16',
                 'country_id' => '0',
@@ -162,7 +164,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            15 => Array
+            15 => array
             (
                 'id' => '17',
                 'country_id' => '0',
@@ -172,7 +174,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            16 => Array
+            16 => array
             (
                 'id' => '18',
                 'country_id' => '0',
@@ -182,7 +184,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            17 => Array
+            17 => array
             (
                 'id' => '19',
                 'country_id' => '0',
@@ -192,7 +194,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            18 => Array
+            18 => array
             (
                 'id' => '20',
                 'country_id' => '0',
@@ -202,7 +204,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            19 => Array
+            19 => array
             (
                 'id' => '21',
                 'country_id' => '0',
@@ -212,7 +214,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            20 => Array
+            20 => array
             (
                 'id' => '22',
                 'country_id' => '0',
@@ -222,7 +224,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            21 => Array
+            21 => array
             (
                 'id' => '23',
                 'country_id' => '0',
@@ -232,7 +234,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            22 => Array
+            22 => array
             (
                 'id' => '24',
                 'country_id' => '0',
@@ -242,7 +244,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            23 => Array
+            23 => array
             (
                 'id' => '25',
                 'country_id' => '0',
@@ -252,7 +254,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            24 => Array
+            24 => array
             (
                 'id' => '26',
                 'country_id' => '0',
@@ -262,7 +264,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            25 => Array
+            25 => array
             (
                 'id' => '27',
                 'country_id' => '0',
@@ -272,7 +274,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            26 => Array
+            26 => array
             (
                 'id' => '28',
                 'country_id' => '0',
@@ -282,7 +284,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            27 => Array
+            27 => array
             (
                 'id' => '29',
                 'country_id' => '0',
@@ -292,7 +294,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            28 => Array
+            28 => array
             (
                 'id' => '30',
                 'country_id' => '0',
@@ -302,7 +304,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            29 => Array
+            29 => array
             (
                 'id' => '31',
                 'country_id' => '0',
@@ -312,7 +314,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            30 => Array
+            30 => array
             (
                 'id' => '32',
                 'country_id' => '0',
@@ -322,7 +324,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            31 => Array
+            31 => array
             (
                 'id' => '33',
                 'country_id' => '0',
@@ -332,7 +334,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            32 => Array
+            32 => array
             (
                 'id' => '34',
                 'country_id' => '0',
@@ -342,7 +344,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            33 => Array
+            33 => array
             (
                 'id' => '35',
                 'country_id' => '0',
@@ -352,7 +354,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            34 => Array
+            34 => array
             (
                 'id' => '36',
                 'country_id' => '0',
@@ -362,7 +364,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            35 => Array
+            35 => array
             (
                 'id' => '37',
                 'country_id' => '0',
@@ -372,7 +374,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            36 => Array
+            36 => array
             (
                 'id' => '38',
                 'country_id' => '0',
@@ -382,7 +384,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            37 => Array
+            37 => array
             (
                 'id' => '39',
                 'country_id' => '0',
@@ -392,7 +394,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            38 => Array
+            38 => array
             (
                 'id' => '40',
                 'country_id' => '0',
@@ -402,7 +404,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            39 => Array
+            39 => array
             (
                 'id' => '41',
                 'country_id' => '0',
@@ -412,7 +414,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            40 => Array
+            40 => array
             (
                 'id' => '42',
                 'country_id' => '0',
@@ -422,7 +424,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            41 => Array
+            41 => array
             (
                 'id' => '43',
                 'country_id' => '0',
@@ -432,7 +434,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            42 => Array
+            42 => array
             (
                 'id' => '44',
                 'country_id' => '0',
@@ -442,7 +444,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            43 => Array
+            43 => array
             (
                 'id' => '45',
                 'country_id' => '0',
@@ -452,7 +454,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            44 => Array
+            44 => array
             (
                 'id' => '46',
                 'country_id' => '0',
@@ -462,7 +464,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            45 => Array
+            45 => array
             (
                 'id' => '47',
                 'country_id' => '0',
@@ -472,7 +474,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            46 => Array
+            46 => array
             (
                 'id' => '48',
                 'country_id' => '0',
@@ -482,7 +484,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            47 => Array
+            47 => array
             (
                 'id' => '49',
                 'country_id' => '0',
@@ -492,7 +494,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            48 => Array
+            48 => array
             (
                 'id' => '50',
                 'country_id' => '0',
@@ -502,7 +504,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            49 => Array
+            49 => array
             (
                 'id' => '51',
                 'country_id' => '0',
@@ -512,7 +514,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            50 => Array
+            50 => array
             (
                 'id' => '52',
                 'country_id' => '0',
@@ -522,7 +524,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            51 => Array
+            51 => array
             (
                 'id' => '53',
                 'country_id' => '0',
@@ -532,7 +534,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            52 => Array
+            52 => array
             (
                 'id' => '54',
                 'country_id' => '0',
@@ -542,7 +544,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            53 => Array
+            53 => array
             (
                 'id' => '55',
                 'country_id' => '0',
@@ -552,7 +554,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            54 => Array
+            54 => array
             (
                 'id' => '56',
                 'country_id' => '0',
@@ -562,7 +564,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            55 => Array
+            55 => array
             (
                 'id' => '57',
                 'country_id' => '0',
@@ -572,7 +574,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            56 => Array
+            56 => array
             (
                 'id' => '58',
                 'country_id' => '0',
@@ -582,7 +584,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            57 => Array
+            57 => array
             (
                 'id' => '59',
                 'country_id' => '0',
@@ -592,7 +594,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            58 => Array
+            58 => array
             (
                 'id' => '60',
                 'country_id' => '0',
@@ -602,7 +604,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            59 => Array
+            59 => array
             (
                 'id' => '61',
                 'country_id' => '0',
@@ -612,7 +614,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            60 => Array
+            60 => array
             (
                 'id' => '62',
                 'country_id' => '0',
@@ -622,7 +624,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            61 => Array
+            61 => array
             (
                 'id' => '63',
                 'country_id' => '0',
@@ -632,7 +634,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            62 => Array
+            62 => array
             (
                 'id' => '64',
                 'country_id' => '0',
@@ -642,7 +644,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            63 => Array
+            63 => array
             (
                 'id' => '65',
                 'country_id' => '0',
@@ -652,7 +654,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            64 => Array
+            64 => array
             (
                 'id' => '66',
                 'country_id' => '0',
@@ -662,7 +664,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            65 => Array
+            65 => array
             (
                 'id' => '67',
                 'country_id' => '0',
@@ -672,7 +674,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            66 => Array
+            66 => array
             (
                 'id' => '68',
                 'country_id' => '0',
@@ -682,7 +684,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            67 => Array
+            67 => array
             (
                 'id' => '69',
                 'country_id' => '0',
@@ -692,7 +694,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            68 => Array
+            68 => array
             (
                 'id' => '70',
                 'country_id' => '0',
@@ -702,7 +704,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            69 => Array
+            69 => array
             (
                 'id' => '71',
                 'country_id' => '0',
@@ -712,7 +714,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            70 => Array
+            70 => array
             (
                 'id' => '72',
                 'country_id' => '0',
@@ -722,7 +724,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            71 => Array
+            71 => array
             (
                 'id' => '73',
                 'country_id' => '0',
@@ -732,7 +734,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            72 => Array
+            72 => array
             (
                 'id' => '74',
                 'country_id' => '0',
@@ -742,7 +744,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            73 => Array
+            73 => array
             (
                 'id' => '75',
                 'country_id' => '0',
@@ -752,7 +754,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            74 => Array
+            74 => array
             (
                 'id' => '76',
                 'country_id' => '0',
@@ -762,7 +764,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            75 => Array
+            75 => array
             (
                 'id' => '77',
                 'country_id' => '0',
@@ -772,7 +774,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            76 => Array
+            76 => array
             (
                 'id' => '78',
                 'country_id' => '0',
@@ -782,7 +784,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            77 => Array
+            77 => array
             (
                 'id' => '79',
                 'country_id' => '0',
@@ -792,7 +794,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            78 => Array
+            78 => array
             (
                 'id' => '80',
                 'country_id' => '0',
@@ -802,7 +804,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            79 => Array
+            79 => array
             (
                 'id' => '81',
                 'country_id' => '0',
@@ -812,7 +814,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            80 => Array
+            80 => array
             (
                 'id' => '82',
                 'country_id' => '0',
@@ -822,7 +824,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            81 => Array
+            81 => array
             (
                 'id' => '83',
                 'country_id' => '0',
@@ -832,7 +834,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            82 => Array
+            82 => array
             (
                 'id' => '84',
                 'country_id' => '0',
@@ -842,7 +844,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            83 => Array
+            83 => array
             (
                 'id' => '86',
                 'country_id' => '0',
@@ -852,7 +854,7 @@ class ProvincesTableSeeder extends Seeder
                 'status' => '0',
             ),
 
-            84 => Array
+            84 => array
             (
                 'id' => '87',
                 'country_id' => '0',

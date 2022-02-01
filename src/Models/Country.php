@@ -29,6 +29,6 @@ class Country extends Model
 
     public function provinces()
     {
-    	return $this->hasMany('Jsdecena\MCPro\Models\Province');
+    	return $this->hasMany('LowBlow\MCPro\Models\Province');
     }
 }
