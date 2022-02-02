@@ -21,7 +21,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Майкоп',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1 => array
@@ -31,7 +31,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Горно-Алтайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             2 => array
@@ -41,7 +41,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Барнаул',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             3 => array
@@ -51,7 +51,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             4 => array
@@ -61,7 +61,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рубцовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             5 => array
@@ -71,7 +71,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоалтайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             6 => array
@@ -81,7 +81,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заринск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             7 => array
@@ -91,7 +91,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Благовещенск (Амурская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             8 => array
@@ -101,7 +101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белогорск (Амурская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             9 => array
@@ -111,7 +111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Свободный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             10 => array
@@ -121,7 +121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Архангельск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             11 => array
@@ -131,7 +131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Северодвинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             12 => array
@@ -141,7 +141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котлас',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             13 => array
@@ -151,7 +151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Астрахань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             14 => array
@@ -161,7 +161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ахтубинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             15 => array
@@ -171,7 +171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Знаменск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             16 => array
@@ -181,7 +181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Уфа',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             17 => array
@@ -191,7 +191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Стерлитамак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             18 => array
@@ -201,7 +201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Салават',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             19 => array
@@ -211,7 +211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нефтекамск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             20 => array
@@ -221,7 +221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Октябрьский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             21 => array
@@ -231,7 +231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белорецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             22 => array
@@ -241,7 +241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Благовещенск (Башкортостан)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             23 => array
@@ -251,7 +251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белгород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             24 => array
@@ -261,7 +261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Старый Оскол',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             25 => array
@@ -271,7 +271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Губкин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             26 => array
@@ -281,7 +281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шебекино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             27 => array
@@ -291,7 +291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новый Оскол',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             28 => array
@@ -301,7 +301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Брянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             29 => array
@@ -311,7 +311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Клинцы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             30 => array
@@ -321,7 +321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Улан-Удэ',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             31 => array
@@ -331,7 +331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Северобайкальск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             32 => array
@@ -341,7 +341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Владимир',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             33 => array
@@ -351,7 +351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ковров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             34 => array
@@ -361,7 +361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Муром',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             35 => array
@@ -371,7 +371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Александров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             36 => array
@@ -381,7 +381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гусь-Хрустальный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             37 => array
@@ -391,7 +391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киржач',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             38 => array
@@ -401,7 +401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волгоград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             39 => array
@@ -411,7 +411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волжский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             40 => array
@@ -421,7 +421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камышин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             41 => array
@@ -431,7 +431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калач-на-Дону',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             42 => array
@@ -441,7 +441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Череповец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             43 => array
@@ -451,7 +451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вологда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             44 => array
@@ -461,7 +461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сокол',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             45 => array
@@ -471,7 +471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Воронеж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             46 => array
@@ -481,7 +481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Борисоглебск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             47 => array
@@ -491,7 +491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Россошь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             48 => array
@@ -501,7 +501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лиски',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             49 => array
@@ -511,7 +511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Павловск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             50 => array
@@ -521,7 +521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Махачкала',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             51 => array
@@ -531,7 +531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хасавюрт',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             52 => array
@@ -541,7 +541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дербент',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             53 => array
@@ -551,7 +551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Биробиджан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             54 => array
@@ -561,7 +561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чита',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             55 => array
@@ -571,7 +571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснокаменск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             56 => array
@@ -581,7 +581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Иваново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             57 => array
@@ -591,7 +591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кинешма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             58 => array
@@ -601,7 +601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шуя',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             59 => array
@@ -611,7 +611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Назрань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             60 => array
@@ -621,7 +621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Иркутск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             61 => array
@@ -631,7 +631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Братск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             62 => array
@@ -641,7 +641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ангарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             63 => array
@@ -651,7 +651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усть-Илимск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             64 => array
@@ -661,7 +661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нальчик',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             65 => array
@@ -671,7 +671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Прохладный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             66 => array
@@ -681,7 +681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калининград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             67 => array
@@ -691,7 +691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Советск (Калининградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             68 => array
@@ -701,7 +701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Элиста',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             69 => array
@@ -711,7 +711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калуга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             70 => array
@@ -721,7 +721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Обнинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             71 => array
@@ -731,7 +731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петропавловск-Камчатский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             72 => array
@@ -741,7 +741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Елизово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             73 => array
@@ -751,7 +751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вилючинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             74 => array
@@ -761,7 +761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черкесск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             75 => array
@@ -771,7 +771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петрозаводск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             76 => array
@@ -781,7 +781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кондопога',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             77 => array
@@ -791,7 +791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новокузнецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             78 => array
@@ -801,7 +801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кемерово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             79 => array
@@ -811,7 +811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Прокопьевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             80 => array
@@ -821,7 +821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ленинск-Кузнецкий',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             81 => array
@@ -831,7 +831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Междуреченск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             82 => array
@@ -841,7 +841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киселёвск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             83 => array
@@ -851,7 +851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юрга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             84 => array
@@ -861,7 +861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киров (Кировская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             85 => array
@@ -871,7 +871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кирово-Чепецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             86 => array
@@ -881,7 +881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сыктывкар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             87 => array
@@ -891,7 +891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ухта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             88 => array
@@ -901,7 +901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Воркута',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             89 => array
@@ -911,7 +911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Печора',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             90 => array
@@ -921,7 +921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кострома',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             91 => array
@@ -931,7 +931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснодар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             92 => array
@@ -941,7 +941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сочи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             93 => array
@@ -951,7 +951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новороссийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             94 => array
@@ -961,7 +961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Армавир',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             95 => array
@@ -971,7 +971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             96 => array
@@ -981,7 +981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кропоткин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             97 => array
@@ -991,7 +991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Туапсе',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             98 => array
@@ -1001,7 +1001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тихорецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             99 => array
@@ -1011,7 +1011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Анапа',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             100 => array
@@ -1021,7 +1021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белореченск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             101 => array
@@ -1031,7 +1031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Геленджик',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             102 => array
@@ -1041,7 +1041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноярск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             103 => array
@@ -1051,7 +1051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Норильск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             104 => array
@@ -1061,7 +1061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ачинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             105 => array
@@ -1071,7 +1071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Канск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             106 => array
@@ -1081,7 +1081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Железногорск (Красноярский край)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             107 => array
@@ -1091,7 +1091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зеленогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             108 => array
@@ -1101,7 +1101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курган',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             109 => array
@@ -1111,7 +1111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шадринск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             110 => array
@@ -1121,7 +1121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             111 => array
@@ -1131,7 +1131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Железногорск (Курская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             112 => array
@@ -1141,7 +1141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курчатов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             113 => array
@@ -1151,7 +1151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гатчина',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             114 => array
@@ -1161,7 +1161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Выборг',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             115 => array
@@ -1171,7 +1171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сосновый Бор',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             116 => array
@@ -1181,7 +1181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тихвин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             117 => array
@@ -1191,7 +1191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кириши',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             118 => array
@@ -1201,7 +1201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кингисепп',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             119 => array
@@ -1211,7 +1211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Всеволожск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             120 => array
@@ -1221,7 +1221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волхов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             121 => array
@@ -1231,7 +1231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сертолово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             122 => array
@@ -1241,7 +1241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Луга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             123 => array
@@ -1251,7 +1251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тосно',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             124 => array
@@ -1261,7 +1261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сланцы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             125 => array
@@ -1271,7 +1271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кировск (Ленинградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             126 => array
@@ -1281,7 +1281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лодейное Поле',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             127 => array
@@ -1291,7 +1291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пикалёво',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             128 => array
@@ -1301,7 +1301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Отрадное',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             129 => array
@@ -1311,7 +1311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Подпорожье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             130 => array
@@ -1321,7 +1321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Коммунар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             131 => array
@@ -1331,7 +1331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Приозерск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             132 => array
@@ -1341,7 +1341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Никольское',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             133 => array
@@ -1351,7 +1351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бокситогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             134 => array
@@ -1361,7 +1361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Светогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             135 => array
@@ -1371,7 +1371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сясьстрой',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             136 => array
@@ -1381,7 +1381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шлиссельбург',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             137 => array
@@ -1391,7 +1391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сиверский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             138 => array
@@ -1401,7 +1401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волосово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             139 => array
@@ -1411,7 +1411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ивангород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             140 => array
@@ -1421,7 +1421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вырица',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             141 => array
@@ -1431,7 +1431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Поселок им. Морозова',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             142 => array
@@ -1441,7 +1441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Липецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             143 => array
@@ -1451,7 +1451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Елец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             144 => array
@@ -1461,7 +1461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Магадан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             145 => array
@@ -1471,7 +1471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Йошкар-Ола',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             146 => array
@@ -1481,7 +1481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волжск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             147 => array
@@ -1491,7 +1491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саранск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             148 => array
@@ -1501,7 +1501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рузаевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             149 => array
@@ -1511,7 +1511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балашиха',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             150 => array
@@ -1521,7 +1521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Химки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             151 => array
@@ -1531,7 +1531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Подольск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             152 => array
@@ -1541,7 +1541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Королёв',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             153 => array
@@ -1551,7 +1551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мытищи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             154 => array
@@ -1561,7 +1561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Люберцы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             155 => array
@@ -1571,7 +1571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Коломна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             156 => array
@@ -1581,7 +1581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Электросталь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             157 => array
@@ -1591,7 +1591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Одинцово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             158 => array
@@ -1601,7 +1601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Железнодорожный (Балашиха)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             159 => array
@@ -1611,7 +1611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Серпухов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             160 => array
@@ -1621,7 +1621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Орехово-Зуево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             161 => array
@@ -1631,7 +1631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ногинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             162 => array
@@ -1641,7 +1641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щёлково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             163 => array
@@ -1651,7 +1651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сергиев Посад',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             164 => array
@@ -1661,7 +1661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жуковский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             165 => array
@@ -1671,7 +1671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             166 => array
@@ -1681,7 +1681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пушкино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             167 => array
@@ -1691,7 +1691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Воскресенск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             168 => array
@@ -1701,7 +1701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Домодедово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             169 => array
@@ -1711,7 +1711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Раменское',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             170 => array
@@ -1721,7 +1721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Реутов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             171 => array
@@ -1731,7 +1731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Долгопрудный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             172 => array
@@ -1741,7 +1741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Клин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             173 => array
@@ -1751,7 +1751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чехов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             174 => array
@@ -1761,7 +1761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Наро-Фоминск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             175 => array
@@ -1771,7 +1771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лобня',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             176 => array
@@ -1781,7 +1781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Егорьевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             177 => array
@@ -1791,7 +1791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ступино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             178 => array
@@ -1801,7 +1801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дмитров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             179 => array
@@ -1811,7 +1811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дубна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             180 => array
@@ -1821,7 +1821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Павловский Посад',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             181 => array
@@ -1831,7 +1831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Солнечногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             182 => array
@@ -1841,7 +1841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ивантеевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             183 => array
@@ -1851,7 +1851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Климовск (Москва)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             184 => array
@@ -1861,7 +1861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Видное',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             185 => array
@@ -1871,7 +1871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фрязино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             186 => array
@@ -1881,7 +1881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лыткарино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             187 => array
@@ -1891,7 +1891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дзержинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             188 => array
@@ -1901,7 +1901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кашира',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             189 => array
@@ -1911,7 +1911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Протвино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             190 => array
@@ -1921,7 +1921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Троицк (Москва)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             191 => array
@@ -1931,7 +1931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юбилейный (Москва)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             192 => array
@@ -1941,7 +1941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Истра',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             193 => array
@@ -1951,7 +1951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нахабино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             194 => array
@@ -1961,7 +1961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснознаменск (Московская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             195 => array
@@ -1971,7 +1971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Луховицы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             196 => array
@@ -1981,7 +1981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щербинка (Москва)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             197 => array
@@ -1991,7 +1991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шатура',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             198 => array
@@ -2001,7 +2001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ликино-Дулёво',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             199 => array
@@ -2011,7 +2011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Можайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             200 => array
@@ -2021,7 +2021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Томилино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             201 => array
@@ -2031,7 +2031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дедовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             202 => array
@@ -2041,7 +2041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноармейск (Московская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             203 => array
@@ -2051,7 +2051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кубинка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             204 => array
@@ -2061,7 +2061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Озёры',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             205 => array
@@ -2071,7 +2071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зарайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             206 => array
@@ -2081,7 +2081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калининец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             207 => array
@@ -2091,7 +2091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волоколамск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             208 => array
@@ -2101,7 +2101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лосино-Петровский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             209 => array
@@ -2111,7 +2111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Старая Купавна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             210 => array
@@ -2121,7 +2121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рошаль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             211 => array
@@ -2131,7 +2131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Электрогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             212 => array
@@ -2141,7 +2141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Электроугли',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             213 => array
@@ -2151,7 +2151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черноголовка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             214 => array
@@ -2161,7 +2161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котельники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             215 => array
@@ -2171,7 +2171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пущино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             216 => array
@@ -2181,7 +2181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             217 => array
@@ -2191,7 +2191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мурманск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             218 => array
@@ -2201,7 +2201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Апатиты',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             219 => array
@@ -2211,7 +2211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Североморск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             220 => array
@@ -2221,7 +2221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нарьян-Мар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             221 => array
@@ -2231,7 +2231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижний Новгород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             222 => array
@@ -2241,7 +2241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дзержинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             223 => array
@@ -2251,7 +2251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Арзамас',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             224 => array
@@ -2261,7 +2261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             225 => array
@@ -2271,7 +2271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бор',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             226 => array
@@ -2281,7 +2281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кстово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             227 => array
@@ -2291,7 +2291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Павлово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             228 => array
@@ -2301,7 +2301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Выкса',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             229 => array
@@ -2311,7 +2311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балахна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             230 => array
@@ -2321,7 +2321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Великий Новгород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             231 => array
@@ -2331,7 +2331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Боровичи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             232 => array
@@ -2341,7 +2341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Старая Русса',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             233 => array
@@ -2351,7 +2351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новосибирск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             234 => array
@@ -2361,7 +2361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бердск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             235 => array
@@ -2371,7 +2371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Куйбышев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             236 => array
@@ -2381,7 +2381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Омск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             237 => array
@@ -2391,7 +2391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Оренбург',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             238 => array
@@ -2401,7 +2401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Орск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             239 => array
@@ -2411,7 +2411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новотроицк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             240 => array
@@ -2421,7 +2421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бузулук',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             241 => array
@@ -2431,7 +2431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Орёл',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             242 => array
@@ -2441,7 +2441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ливны',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             243 => array
@@ -2451,7 +2451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мценск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             244 => array
@@ -2461,7 +2461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пенза',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             245 => array
@@ -2471,7 +2471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кузнецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             246 => array
@@ -2481,7 +2481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заречный (Пензенская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             247 => array
@@ -2491,7 +2491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каменка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             248 => array
@@ -2501,7 +2501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пермь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             249 => array
@@ -2511,7 +2511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Березники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             250 => array
@@ -2521,7 +2521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Соликамск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             251 => array
@@ -2531,7 +2531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чайковский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             252 => array
@@ -2541,7 +2541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лысьва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             253 => array
@@ -2551,7 +2551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кунгур',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             254 => array
@@ -2561,7 +2561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснокамск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             255 => array
@@ -2571,7 +2571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Владивосток',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             256 => array
@@ -2581,7 +2581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Находка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             257 => array
@@ -2591,7 +2591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Уссурийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             258 => array
@@ -2601,7 +2601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Артём',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             259 => array
@@ -2611,7 +2611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Псков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             260 => array
@@ -2621,7 +2621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Великие Луки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             261 => array
@@ -2631,7 +2631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ростов-на-Дону',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             262 => array
@@ -2641,7 +2641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Таганрог',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             263 => array
@@ -2651,7 +2651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шахты',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             264 => array
@@ -2661,7 +2661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новочеркасск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             265 => array
@@ -2671,7 +2671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волгодонск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             266 => array
@@ -2681,7 +2681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новошахтинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             267 => array
@@ -2691,7 +2691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Батайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             268 => array
@@ -2701,7 +2701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каменск-Шахтинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             269 => array
@@ -2711,7 +2711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Азов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             270 => array
@@ -2721,7 +2721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гуково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             271 => array
@@ -2731,7 +2731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сальск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             272 => array
@@ -2741,7 +2741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Донецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             273 => array
@@ -2751,7 +2751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белая Калитва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             274 => array
@@ -2761,7 +2761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рязань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             275 => array
@@ -2771,7 +2771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Касимов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             276 => array
@@ -2781,7 +2781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Самара',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             277 => array
@@ -2791,7 +2791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тольятти',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             278 => array
@@ -2801,7 +2801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сызрань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             279 => array
@@ -2811,7 +2811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новокуйбышевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             280 => array
@@ -2821,7 +2821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чапаевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             281 => array
@@ -2831,7 +2831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жигулёвск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             282 => array
@@ -2841,7 +2841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саратов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             283 => array
@@ -2851,7 +2851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Энгельс',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             284 => array
@@ -2861,7 +2861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балаково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             285 => array
@@ -2871,7 +2871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балашов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             286 => array
@@ -2881,7 +2881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вольск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             287 => array
@@ -2891,7 +2891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Якутск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             288 => array
@@ -2901,7 +2901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нерюнгри',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             289 => array
@@ -2911,7 +2911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мирный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             290 => array
@@ -2921,7 +2921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Южно-Сахалинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             291 => array
@@ -2931,7 +2931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Екатеринбург',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             292 => array
@@ -2941,7 +2941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижний Тагил',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             293 => array
@@ -2951,7 +2951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каменск-Уральский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             294 => array
@@ -2961,7 +2961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Первоуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             295 => array
@@ -2971,7 +2971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Серов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             296 => array
@@ -2981,7 +2981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             297 => array
@@ -2991,7 +2991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Асбест',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             298 => array
@@ -3001,7 +3001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Полевской',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             299 => array
@@ -3011,7 +3011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ревда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             300 => array
@@ -3021,7 +3021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснотурьинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             301 => array
@@ -3031,7 +3031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Владикавказ',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             302 => array
@@ -3041,7 +3041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Моздок',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             303 => array
@@ -3051,7 +3051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Смоленск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             304 => array
@@ -3061,7 +3061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вязьма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             305 => array
@@ -3071,7 +3071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ставрополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             306 => array
@@ -3081,7 +3081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пятигорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             307 => array
@@ -3091,7 +3091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кисловодск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             308 => array
@@ -3101,7 +3101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ессентуки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             309 => array
@@ -3111,7 +3111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Минеральные Воды',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             310 => array
@@ -3121,7 +3121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Будённовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             311 => array
@@ -3131,7 +3131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тамбов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             312 => array
@@ -3141,7 +3141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мичуринск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             313 => array
@@ -3151,7 +3151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Казань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             314 => array
@@ -3161,7 +3161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Набережные Челны',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             315 => array
@@ -3171,7 +3171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижнекамск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             316 => array
@@ -3181,7 +3181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Альметьевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             317 => array
@@ -3191,7 +3191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зеленодольск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             318 => array
@@ -3201,7 +3201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бугульма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             319 => array
@@ -3211,7 +3211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тверь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             320 => array
@@ -3221,7 +3221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ржев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             321 => array
@@ -3231,7 +3231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Томск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             322 => array
@@ -3241,7 +3241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Северск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             323 => array
@@ -3251,7 +3251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тула',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             324 => array
@@ -3261,7 +3261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новомосковск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             325 => array
@@ -3271,7 +3271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Узловая',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             326 => array
@@ -3281,7 +3281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кызыл',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             327 => array
@@ -3291,7 +3291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тюмень',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             328 => array
@@ -3301,7 +3301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тобольск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             329 => array
@@ -3311,7 +3311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ижевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             330 => array
@@ -3321,7 +3321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сарапул',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             331 => array
@@ -3331,7 +3331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Глазов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             332 => array
@@ -3341,7 +3341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Воткинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             333 => array
@@ -3351,7 +3351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ульяновск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             334 => array
@@ -3361,7 +3361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Димитровград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             335 => array
@@ -3371,7 +3371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хабаровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             336 => array
@@ -3381,7 +3381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Комсомольск-на-Амуре',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             337 => array
@@ -3391,7 +3391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Амурск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             338 => array
@@ -3401,7 +3401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Абакан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             339 => array
@@ -3411,7 +3411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             340 => array
@@ -3421,7 +3421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сургут',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             341 => array
@@ -3431,7 +3431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижневартовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             342 => array
@@ -3441,7 +3441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нефтеюганск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             343 => array
@@ -3451,7 +3451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ханты-Мансийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             344 => array
@@ -3461,7 +3461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Челябинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             345 => array
@@ -3471,7 +3471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Магнитогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             346 => array
@@ -3481,7 +3481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Златоуст',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             347 => array
@@ -3491,7 +3491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Миасс',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             348 => array
@@ -3501,7 +3501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Копейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             349 => array
@@ -3511,7 +3511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Озёрск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             350 => array
@@ -3521,7 +3521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Троицк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             351 => array
@@ -3531,7 +3531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Снежинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             352 => array
@@ -3541,7 +3541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сатка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             353 => array
@@ -3551,7 +3551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Грозный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             354 => array
@@ -3561,7 +3561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Урус-Мартан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             355 => array
@@ -3571,7 +3571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чебоксары',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             356 => array
@@ -3581,7 +3581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новочебоксарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             357 => array
@@ -3591,7 +3591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новый Уренгой',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             358 => array
@@ -3601,7 +3601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ноябрьск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             359 => array
@@ -3611,7 +3611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ярославль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             360 => array
@@ -3621,7 +3621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рыбинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             361 => array
@@ -3631,7 +3631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Переславль-Залесский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             362 => array
@@ -3641,7 +3641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Москва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             363 => array
@@ -3651,7 +3651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Санкт-Петербург',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             364 => array
@@ -3661,7 +3661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Абаза',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             365 => array
@@ -3671,7 +3671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Абдулино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             366 => array
@@ -3681,7 +3681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Абинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             367 => array
@@ -3691,7 +3691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Агидель',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             368 => array
@@ -3701,7 +3701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Агрыз',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             369 => array
@@ -3711,7 +3711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Адыгейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             370 => array
@@ -3721,7 +3721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Азнакаево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             371 => array
@@ -3731,7 +3731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ак-Довурак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             372 => array
@@ -3741,7 +3741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Аксай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             373 => array
@@ -3751,7 +3751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алагир',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             374 => array
@@ -3761,7 +3761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алапаевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             375 => array
@@ -3771,7 +3771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алатырь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             376 => array
@@ -3781,7 +3781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алдан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             377 => array
@@ -3791,7 +3791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             378 => array
@@ -3801,7 +3801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Александровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             379 => array
@@ -3811,7 +3811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Александровск-Сахалинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             380 => array
@@ -3821,7 +3821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алексеевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             381 => array
@@ -3831,7 +3831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алексин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             382 => array
@@ -3841,7 +3841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алзамай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             383 => array
@@ -3851,7 +3851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Анадырь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             384 => array
@@ -3861,7 +3861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Андреаполь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             385 => array
@@ -3871,7 +3871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Анжеро-Судженск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             386 => array
@@ -3881,7 +3881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Анива',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             387 => array
@@ -3891,7 +3891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Апрелевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             388 => array
@@ -3901,7 +3901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Апшеронск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             389 => array
@@ -3911,7 +3911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Арамиль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             390 => array
@@ -3921,7 +3921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Аргун',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             391 => array
@@ -3931,7 +3931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ардатов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             392 => array
@@ -3941,7 +3941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ардон',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             393 => array
@@ -3951,7 +3951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Аркадак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             394 => array
@@ -3961,7 +3961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Арсеньев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             395 => array
@@ -3971,7 +3971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Арск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             396 => array
@@ -3981,7 +3981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Артёмовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             397 => array
@@ -3991,7 +3991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Артёмовский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             398 => array
@@ -4001,7 +4001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Асино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             399 => array
@@ -4011,7 +4011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Аткарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             400 => array
@@ -4021,7 +4021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Аша',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             401 => array
@@ -4031,7 +4031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бабаево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             402 => array
@@ -4041,7 +4041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бабушкин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             403 => array
@@ -4051,7 +4051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бавлы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             404 => array
@@ -4061,7 +4061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Багратионовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             405 => array
@@ -4071,7 +4071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Байкальск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             406 => array
@@ -4081,7 +4081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Баймак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             407 => array
@@ -4091,7 +4091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бакал',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             408 => array
@@ -4101,7 +4101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Баксан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             409 => array
@@ -4111,7 +4111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балабаново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             410 => array
@@ -4121,7 +4121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балей',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             411 => array
@@ -4131,7 +4131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Балтийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             412 => array
@@ -4141,7 +4141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Барабинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             413 => array
@@ -4151,7 +4151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Барыш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             414 => array
@@ -4161,7 +4161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бежецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             415 => array
@@ -4171,7 +4171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белёв',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             416 => array
@@ -4181,7 +4181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белая Холуница',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             417 => array
@@ -4191,7 +4191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белебей',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             418 => array
@@ -4201,7 +4201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             419 => array
@@ -4211,7 +4211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             420 => array
@@ -4221,7 +4221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белозерск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             421 => array
@@ -4231,7 +4231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белокуриха',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             422 => array
@@ -4241,7 +4241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Беломорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             423 => array
@@ -4251,7 +4251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белоусово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             424 => array
@@ -4261,7 +4261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белоярский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             425 => array
@@ -4271,7 +4271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белый',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             426 => array
@@ -4281,7 +4281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Березовский (Кемеровская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             427 => array
@@ -4291,7 +4291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Березовский (Свердловская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             428 => array
@@ -4301,7 +4301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Беслан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             429 => array
@@ -4311,7 +4311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бикин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             430 => array
@@ -4321,7 +4321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Билибино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             431 => array
@@ -4331,7 +4331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бирск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             432 => array
@@ -4341,7 +4341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бирюсинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             433 => array
@@ -4351,7 +4351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бирюч',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             434 => array
@@ -4361,7 +4361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Благодарный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             435 => array
@@ -4371,7 +4371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бобров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             436 => array
@@ -4381,7 +4381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Богданович',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             437 => array
@@ -4391,7 +4391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Богородицк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             438 => array
@@ -4401,7 +4401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Богородск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             439 => array
@@ -4411,7 +4411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Боготол',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             440 => array
@@ -4421,7 +4421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Богучар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             441 => array
@@ -4431,7 +4431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бодайбо',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             442 => array
@@ -4441,7 +4441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Болгар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             443 => array
@@ -4451,7 +4451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бологое',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             444 => array
@@ -4461,7 +4461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Болотное',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             445 => array
@@ -4471,7 +4471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Болохово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             446 => array
@@ -4481,7 +4481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Болхов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             447 => array
@@ -4491,7 +4491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Большой Камень',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             448 => array
@@ -4501,7 +4501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Борзя',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             449 => array
@@ -4511,7 +4511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Боровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             450 => array
@@ -4521,7 +4521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бородино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             451 => array
@@ -4531,7 +4531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бронницы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             452 => array
@@ -4541,7 +4541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бугуруслан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             453 => array
@@ -4551,7 +4551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Буинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             454 => array
@@ -4561,7 +4561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Буй',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             455 => array
@@ -4571,7 +4571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Буйнакск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             456 => array
@@ -4581,7 +4581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бутурлиновка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             457 => array
@@ -4591,7 +4591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Валдай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             458 => array
@@ -4601,7 +4601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Валуйки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             459 => array
@@ -4611,7 +4611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Велиж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             460 => array
@@ -4621,7 +4621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Великий Устюг',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             461 => array
@@ -4631,7 +4631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вельск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             462 => array
@@ -4641,7 +4641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Венёв',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             463 => array
@@ -4651,7 +4651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верещагино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             464 => array
@@ -4661,7 +4661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верея',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             465 => array
@@ -4671,7 +4671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхнеуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             466 => array
@@ -4681,7 +4681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхний Тагил',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             467 => array
@@ -4691,7 +4691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхний Уфалей',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             468 => array
@@ -4701,7 +4701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхняя Пышма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             469 => array
@@ -4711,7 +4711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхняя Салда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             470 => array
@@ -4721,7 +4721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхняя Тура',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             471 => array
@@ -4731,7 +4731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхотурье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             472 => array
@@ -4741,7 +4741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Верхоянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             473 => array
@@ -4751,7 +4751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Весьегонск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             474 => array
@@ -4761,7 +4761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ветлуга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             475 => array
@@ -4771,7 +4771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вилюйск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             476 => array
@@ -4781,7 +4781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вихоревка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             477 => array
@@ -4791,7 +4791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вичуга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             478 => array
@@ -4801,7 +4801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волгореченск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             479 => array
@@ -4811,7 +4811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Володарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             480 => array
@@ -4821,7 +4821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Волчанск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             481 => array
@@ -4831,7 +4831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ворсма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             482 => array
@@ -4841,7 +4841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вуктыл',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             483 => array
@@ -4851,7 +4851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Высоковск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             484 => array
@@ -4861,7 +4861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Высоцк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             485 => array
@@ -4871,7 +4871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вытегра',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             486 => array
@@ -4881,7 +4881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вышний Волочёк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             487 => array
@@ -4891,7 +4891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вяземский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             488 => array
@@ -4901,7 +4901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вязники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             489 => array
@@ -4911,7 +4911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Вятские Поляны',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             490 => array
@@ -4921,7 +4921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гаврилов Посад',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             491 => array
@@ -4931,7 +4931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гаврилов-Ям',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             492 => array
@@ -4941,7 +4941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гагарин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             493 => array
@@ -4951,7 +4951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гаджиево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             494 => array
@@ -4961,7 +4961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             495 => array
@@ -4971,7 +4971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Галич',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             496 => array
@@ -4981,7 +4981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гвардейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             497 => array
@@ -4991,7 +4991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гдов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             498 => array
@@ -5001,7 +5001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Георгиевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             499 => array
@@ -5011,7 +5011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Голицыно',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             500 => array
@@ -5021,7 +5021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Горбатов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             501 => array
@@ -5031,7 +5031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Горнозаводск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             502 => array
@@ -5041,7 +5041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Горняк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             503 => array
@@ -5051,7 +5051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Городец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             504 => array
@@ -5061,7 +5061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Городище',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             505 => array
@@ -5071,7 +5071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Городовиковск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             506 => array
@@ -5081,7 +5081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гороховец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             507 => array
@@ -5091,7 +5091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Горячий Ключ',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             508 => array
@@ -5101,7 +5101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Грайворон',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             509 => array
@@ -5111,7 +5111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гремячинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             510 => array
@@ -5121,7 +5121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Грязи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             511 => array
@@ -5131,7 +5131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Грязовец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             512 => array
@@ -5141,7 +5141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Губаха',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             513 => array
@@ -5151,7 +5151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Губкинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             514 => array
@@ -5161,7 +5161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гудермес',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             515 => array
@@ -5171,7 +5171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гулькевичи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             516 => array
@@ -5181,7 +5181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гурьевск (Калининградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             517 => array
@@ -5191,7 +5191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гурьевск (Кемеровская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             518 => array
@@ -5201,7 +5201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гусев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             519 => array
@@ -5211,7 +5211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Гусиноозёрск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             520 => array
@@ -5221,7 +5221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Давлеканово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             521 => array
@@ -5231,7 +5231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дагестанские Огни',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             522 => array
@@ -5241,7 +5241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Далматово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             523 => array
@@ -5251,7 +5251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дальнегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             524 => array
@@ -5261,7 +5261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дальнереченск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             525 => array
@@ -5271,7 +5271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Данилов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             526 => array
@@ -5281,7 +5281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Данков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             527 => array
@@ -5291,7 +5291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дегтярск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             528 => array
@@ -5301,7 +5301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Демидов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             529 => array
@@ -5311,7 +5311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Десногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             530 => array
@@ -5321,7 +5321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дивногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             531 => array
@@ -5331,7 +5331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дигора',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             532 => array
@@ -5341,7 +5341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дмитриев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             533 => array
@@ -5351,7 +5351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дмитровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             534 => array
@@ -5361,7 +5361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дно',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             535 => array
@@ -5371,7 +5371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Добрянка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             536 => array
@@ -5381,7 +5381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Долинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             537 => array
@@ -5391,7 +5391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Донской',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             538 => array
@@ -5401,7 +5401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дорогобуж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             539 => array
@@ -5411,7 +5411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дрезна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             540 => array
@@ -5421,7 +5421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дубовка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             541 => array
@@ -5431,7 +5431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дудинка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             542 => array
@@ -5441,7 +5441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Духовщина',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             543 => array
@@ -5451,7 +5451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дюртюли',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             544 => array
@@ -5461,7 +5461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Дятьково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             545 => array
@@ -5471,7 +5471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Елабуга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             546 => array
@@ -5481,7 +5481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ельня',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             547 => array
@@ -5491,7 +5491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Еманжелинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             548 => array
@@ -5501,7 +5501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Емва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             549 => array
@@ -5511,7 +5511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Енисейск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             550 => array
@@ -5521,7 +5521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ермолино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             551 => array
@@ -5531,7 +5531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ершов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             552 => array
@@ -5541,7 +5541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ефремов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             553 => array
@@ -5551,7 +5551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Железноводск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             554 => array
@@ -5561,7 +5561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Железногорск-Илимский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             555 => array
@@ -5571,7 +5571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жердевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             556 => array
@@ -5581,7 +5581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жиздра',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             557 => array
@@ -5591,7 +5591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жирновск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             558 => array
@@ -5601,7 +5601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жуков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             559 => array
@@ -5611,7 +5611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Жуковка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             560 => array
@@ -5621,7 +5621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Завитинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             561 => array
@@ -5631,7 +5631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заводоуковск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             562 => array
@@ -5641,7 +5641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заволжск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             563 => array
@@ -5651,7 +5651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заволжье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             564 => array
@@ -5661,7 +5661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Задонск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             565 => array
@@ -5671,7 +5671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             566 => array
@@ -5681,7 +5681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Закаменск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             567 => array
@@ -5691,7 +5691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заозёрный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             568 => array
@@ -5701,7 +5701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заозёрск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             569 => array
@@ -5711,7 +5711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Западная Двина',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             570 => array
@@ -5721,7 +5721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заполярный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             571 => array
@@ -5731,7 +5731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Заречный (Свердловская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             572 => array
@@ -5741,7 +5741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Звенигово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             573 => array
@@ -5751,7 +5751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Звенигород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             574 => array
@@ -5761,7 +5761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зверево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             575 => array
@@ -5771,7 +5771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зеленоградск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             576 => array
@@ -5781,7 +5781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зеленокумск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             577 => array
@@ -5791,7 +5791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зерноград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             578 => array
@@ -5801,7 +5801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зея',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             579 => array
@@ -5811,7 +5811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зима',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             580 => array
@@ -5821,7 +5821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Злынка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             581 => array
@@ -5831,7 +5831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Змеиногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             582 => array
@@ -5841,7 +5841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зубцов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             583 => array
@@ -5851,7 +5851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Зуевка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             584 => array
@@ -5861,7 +5861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ивдель',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             585 => array
@@ -5871,7 +5871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Игарка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             586 => array
@@ -5881,7 +5881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Избербаш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             587 => array
@@ -5891,7 +5891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Изобильный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             588 => array
@@ -5901,7 +5901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Иланский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             589 => array
@@ -5911,7 +5911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Инза',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             590 => array
@@ -5921,7 +5921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Инсар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             591 => array
@@ -5931,7 +5931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Инта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             592 => array
@@ -5941,7 +5941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ипатово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             593 => array
@@ -5951,7 +5951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ирбит',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             594 => array
@@ -5961,7 +5961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Исилькуль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             595 => array
@@ -5971,7 +5971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Искитим',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             596 => array
@@ -5981,7 +5981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ишим',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             597 => array
@@ -5991,7 +5991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ишимбай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             598 => array
@@ -6001,7 +6001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кадников',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             599 => array
@@ -6011,7 +6011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калач',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             600 => array
@@ -6021,7 +6021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калачинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             601 => array
@@ -6031,7 +6031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калининск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             602 => array
@@ -6041,7 +6041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калтан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             603 => array
@@ -6051,7 +6051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Калязин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             604 => array
@@ -6061,7 +6061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камбарка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             605 => array
@@ -6071,7 +6071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каменногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             606 => array
@@ -6081,7 +6081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камень-на-Оби',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             607 => array
@@ -6091,7 +6091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камешково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             608 => array
@@ -6101,7 +6101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камызяк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             609 => array
@@ -6111,7 +6111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Камышлов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             610 => array
@@ -6121,7 +6121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Канаш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             611 => array
@@ -6131,7 +6131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кандалакша',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             612 => array
@@ -6141,7 +6141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карабаново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             613 => array
@@ -6151,7 +6151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карабаш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             614 => array
@@ -6161,7 +6161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карабулак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             615 => array
@@ -6171,7 +6171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карасук',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             616 => array
@@ -6181,7 +6181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карачаевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             617 => array
@@ -6191,7 +6191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карачев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             618 => array
@@ -6201,7 +6201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каргат',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             619 => array
@@ -6211,7 +6211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каргополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             620 => array
@@ -6221,7 +6221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карпинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             621 => array
@@ -6231,7 +6231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Карталы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             622 => array
@@ -6241,7 +6241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Касли',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             623 => array
@@ -6251,7 +6251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Каспийск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             624 => array
@@ -6261,7 +6261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Катав-Ивановск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             625 => array
@@ -6271,7 +6271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Катайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             626 => array
@@ -6281,7 +6281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Качканар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             627 => array
@@ -6291,7 +6291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кашин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             628 => array
@@ -6301,7 +6301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кедровый',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             629 => array
@@ -6311,7 +6311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кемь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             630 => array
@@ -6321,7 +6321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кизел',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             631 => array
@@ -6331,7 +6331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кизилюрт',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             632 => array
@@ -6341,7 +6341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кизляр',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             633 => array
@@ -6351,7 +6351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кимовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             634 => array
@@ -6361,7 +6361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кимры',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             635 => array
@@ -6371,7 +6371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кинель',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             636 => array
@@ -6381,7 +6381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киреевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             637 => array
@@ -6391,7 +6391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киренск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             638 => array
@@ -6401,7 +6401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кириллов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             639 => array
@@ -6411,7 +6411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Киров (Калужская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             640 => array
@@ -6421,7 +6421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кировград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             641 => array
@@ -6431,7 +6431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кировск (Мурманская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             642 => array
@@ -6441,7 +6441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кирс',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             643 => array
@@ -6451,7 +6451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кирсанов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             644 => array
@@ -6461,7 +6461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Княгинино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             645 => array
@@ -6471,7 +6471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ковдор',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             646 => array
@@ -6481,7 +6481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ковылкино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             647 => array
@@ -6491,7 +6491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Когалым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             648 => array
@@ -6501,7 +6501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кодинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             649 => array
@@ -6511,7 +6511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Козельск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             650 => array
@@ -6521,7 +6521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Козловка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             651 => array
@@ -6531,7 +6531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Козьмодемьянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             652 => array
@@ -6541,7 +6541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кола',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             653 => array
@@ -6551,7 +6551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кологрив',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             654 => array
@@ -6561,7 +6561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Колпашево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             655 => array
@@ -6571,7 +6571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кольчугино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             656 => array
@@ -6581,7 +6581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Комсомольск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             657 => array
@@ -6591,7 +6591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Конаково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             658 => array
@@ -6601,7 +6601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кондрово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             659 => array
@@ -6611,7 +6611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Константиновск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             660 => array
@@ -6621,7 +6621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кораблино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             661 => array
@@ -6631,7 +6631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кореновск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             662 => array
@@ -6641,7 +6641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Коркино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             663 => array
@@ -6651,7 +6651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Короча',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             664 => array
@@ -6661,7 +6661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Корсаков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             665 => array
@@ -6671,7 +6671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Коряжма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             666 => array
@@ -6681,7 +6681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Костерёво',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             667 => array
@@ -6691,7 +6691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Костомукша',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             668 => array
@@ -6701,7 +6701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котельниково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             669 => array
@@ -6711,7 +6711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котельнич',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             670 => array
@@ -6721,7 +6721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             671 => array
@@ -6731,7 +6731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Котовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             672 => array
@@ -6741,7 +6741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кохма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             673 => array
@@ -6751,7 +6751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красавино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             674 => array
@@ -6761,7 +6761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноармейск (Саратовская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             675 => array
@@ -6771,7 +6771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красновишерск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             676 => array
@@ -6781,7 +6781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснозаводск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             677 => array
@@ -6791,7 +6791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснослободск (Волгоградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             678 => array
@@ -6801,7 +6801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснослободск (Мордовия)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             679 => array
@@ -6811,7 +6811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             680 => array
@@ -6821,7 +6821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноуфимск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             681 => array
@@ -6831,7 +6831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красный Кут',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             682 => array
@@ -6841,7 +6841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красный Сулин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             683 => array
@@ -6851,7 +6851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красный Холм',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             684 => array
@@ -6861,7 +6861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кремёнки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             685 => array
@@ -6871,7 +6871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Крымск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             686 => array
@@ -6881,7 +6881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кувандык',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             687 => array
@@ -6891,7 +6891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кувшиново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             688 => array
@@ -6901,7 +6901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кудымкар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             689 => array
@@ -6911,7 +6911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кулебаки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             690 => array
@@ -6921,7 +6921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кумертау',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             691 => array
@@ -6931,7 +6931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Купино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             692 => array
@@ -6941,7 +6941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курганинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             693 => array
@@ -6951,7 +6951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курильск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             694 => array
@@ -6961,7 +6961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Курлово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             695 => array
@@ -6971,7 +6971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Куровское',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             696 => array
@@ -6981,7 +6981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Куртамыш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             697 => array
@@ -6991,7 +6991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Куса',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             698 => array
@@ -7001,7 +7001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кушва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             699 => array
@@ -7011,7 +7011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кыштым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             700 => array
@@ -7021,7 +7021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Кяхта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             701 => array
@@ -7031,7 +7031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лабинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             702 => array
@@ -7041,7 +7041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лабытнанги',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             703 => array
@@ -7051,7 +7051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лагань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             704 => array
@@ -7061,7 +7061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ладушкин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             705 => array
@@ -7071,7 +7071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лаишево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             706 => array
@@ -7081,7 +7081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лакинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             707 => array
@@ -7091,7 +7091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лангепас',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             708 => array
@@ -7101,7 +7101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лахденпохья',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             709 => array
@@ -7111,7 +7111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лебедянь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             710 => array
@@ -7121,7 +7121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лениногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             711 => array
@@ -7131,7 +7131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ленинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             712 => array
@@ -7141,7 +7141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ленск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             713 => array
@@ -7151,7 +7151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лермонтов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             714 => array
@@ -7161,7 +7161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лесной',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             715 => array
@@ -7171,7 +7171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лесозаводск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             716 => array
@@ -7181,7 +7181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лесосибирск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             717 => array
@@ -7191,7 +7191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Липки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             718 => array
@@ -7201,7 +7201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лихославль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             719 => array
@@ -7211,7 +7211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Луза',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             720 => array
@@ -7221,7 +7221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лукоянов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             721 => array
@@ -7231,7 +7231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лысково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             722 => array
@@ -7241,7 +7241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Льгов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             723 => array
@@ -7251,7 +7251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Любань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             724 => array
@@ -7261,7 +7261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Любим',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             725 => array
@@ -7271,7 +7271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Людиново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             726 => array
@@ -7281,7 +7281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Лянтор',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             727 => array
@@ -7291,7 +7291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Магас',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             728 => array
@@ -7301,7 +7301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Майский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             729 => array
@@ -7311,7 +7311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Макаров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             730 => array
@@ -7321,7 +7321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Макарьев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             731 => array
@@ -7331,7 +7331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Макушино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             732 => array
@@ -7341,7 +7341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Малая Вишера',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             733 => array
@@ -7351,7 +7351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Малгобек',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             734 => array
@@ -7361,7 +7361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Малмыж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             735 => array
@@ -7371,7 +7371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Малоархангельск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             736 => array
@@ -7381,7 +7381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Малоярославец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             737 => array
@@ -7391,7 +7391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мамадыш',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             738 => array
@@ -7401,7 +7401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мамоново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             739 => array
@@ -7411,7 +7411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мантурово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             740 => array
@@ -7421,7 +7421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мариинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             741 => array
@@ -7431,7 +7431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мариинский Посад',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             742 => array
@@ -7441,7 +7441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Маркс',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             743 => array
@@ -7451,7 +7451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мглин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             744 => array
@@ -7461,7 +7461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мегион',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             745 => array
@@ -7471,7 +7471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Медвежьегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             746 => array
@@ -7481,7 +7481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Медногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             747 => array
@@ -7491,7 +7491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Медынь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             748 => array
@@ -7501,7 +7501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Межгорье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             749 => array
@@ -7511,7 +7511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мезень',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             750 => array
@@ -7521,7 +7521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Меленки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             751 => array
@@ -7531,7 +7531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мелеуз',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             752 => array
@@ -7541,7 +7541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Менделеевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             753 => array
@@ -7551,7 +7551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мензелинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             754 => array
@@ -7561,7 +7561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мещовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             755 => array
@@ -7571,7 +7571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Микунь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             756 => array
@@ -7581,7 +7581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Миллерово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             757 => array
@@ -7591,7 +7591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Минусинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             758 => array
@@ -7601,7 +7601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Миньяр',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             759 => array
@@ -7611,7 +7611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Михайлов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             760 => array
@@ -7621,7 +7621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Михайловка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             761 => array
@@ -7631,7 +7631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Михайловск (Свердловская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             762 => array
@@ -7641,7 +7641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Михайловск (Ставропольский край)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             763 => array
@@ -7651,7 +7651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Могоча',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             764 => array
@@ -7661,7 +7661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Можга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             765 => array
@@ -7671,7 +7671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мончегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             766 => array
@@ -7681,7 +7681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Морозовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             767 => array
@@ -7691,7 +7691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Моршанск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             768 => array
@@ -7701,7 +7701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мосальск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             769 => array
@@ -7711,7 +7711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Муравленко',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             770 => array
@@ -7721,7 +7721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мураши',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             771 => array
@@ -7731,7 +7731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мыски',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             772 => array
@@ -7741,7 +7741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мышкин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             773 => array
@@ -7751,7 +7751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Навашино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             774 => array
@@ -7761,7 +7761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Наволоки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             775 => array
@@ -7771,7 +7771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Надым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             776 => array
@@ -7781,7 +7781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Назарово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             777 => array
@@ -7791,7 +7791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Называевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             778 => array
@@ -7801,7 +7801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нариманов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             779 => array
@@ -7811,7 +7811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нарткала',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             780 => array
@@ -7821,7 +7821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Невель',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             781 => array
@@ -7831,7 +7831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Невельск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             782 => array
@@ -7841,7 +7841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Невинномысск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             783 => array
@@ -7851,7 +7851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Невьянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             784 => array
@@ -7861,7 +7861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нелидово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             785 => array
@@ -7871,7 +7871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Неман',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             786 => array
@@ -7881,7 +7881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нерехта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             787 => array
@@ -7891,7 +7891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нерчинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             788 => array
@@ -7901,7 +7901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нестеров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             789 => array
@@ -7911,7 +7911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нефтегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             790 => array
@@ -7921,7 +7921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нефтекумск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             791 => array
@@ -7931,7 +7931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нея',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             792 => array
@@ -7941,7 +7941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижнеудинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             793 => array
@@ -7951,7 +7951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижние Серги',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             794 => array
@@ -7961,7 +7961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижний Ломов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             795 => array
@@ -7971,7 +7971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижняя Салда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             796 => array
@@ -7981,7 +7981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нижняя Тура',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             797 => array
@@ -7991,7 +7991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Николаевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             798 => array
@@ -8001,7 +8001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Николаевск-на-Амуре',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             799 => array
@@ -8011,7 +8011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Никольск (Вологодская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             800 => array
@@ -8021,7 +8021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Никольск (Пензенская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             801 => array
@@ -8031,7 +8031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новая Ладога',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             802 => array
@@ -8041,7 +8041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новая Ляля',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             803 => array
@@ -8051,7 +8051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоалександровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             804 => array
@@ -8061,7 +8061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоаннинский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             805 => array
@@ -8071,7 +8071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нововоронеж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             806 => array
@@ -8081,7 +8081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новодвинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             807 => array
@@ -8091,7 +8091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новозыбков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             808 => array
@@ -8101,7 +8101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новокубанск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             809 => array
@@ -8111,7 +8111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новомичуринск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             810 => array
@@ -8121,7 +8121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новопавловск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             811 => array
@@ -8131,7 +8131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоржев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             812 => array
@@ -8141,7 +8141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новосиль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             813 => array
@@ -8151,7 +8151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новосокольники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             814 => array
@@ -8161,7 +8161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоузенск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             815 => array
@@ -8171,7 +8171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новоульяновск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             816 => array
@@ -8181,7 +8181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Новохопёрск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             817 => array
@@ -8191,7 +8191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нолинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             818 => array
@@ -8201,7 +8201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нурлат',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             819 => array
@@ -8211,7 +8211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нытва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             820 => array
@@ -8221,7 +8221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нюрба',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             821 => array
@@ -8231,7 +8231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нягань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             822 => array
@@ -8241,7 +8241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Нязепетровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             823 => array
@@ -8251,7 +8251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Няндома',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             824 => array
@@ -8261,7 +8261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Облучье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             825 => array
@@ -8271,7 +8271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Обоянь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             826 => array
@@ -8281,7 +8281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Обь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             827 => array
@@ -8291,7 +8291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ожерелье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             828 => array
@@ -8301,7 +8301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Октябрьск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             829 => array
@@ -8311,7 +8311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Окуловка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             830 => array
@@ -8321,7 +8321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Олёкминск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             831 => array
@@ -8331,7 +8331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Оленегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             832 => array
@@ -8341,7 +8341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Олонец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             833 => array
@@ -8351,7 +8351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Омутнинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             834 => array
@@ -8361,7 +8361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Онега',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             835 => array
@@ -8371,7 +8371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Опочка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             836 => array
@@ -8381,7 +8381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Орлов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             837 => array
@@ -8391,7 +8391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Оса',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             838 => array
@@ -8401,7 +8401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Осинники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             839 => array
@@ -8411,7 +8411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Осташков',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             840 => array
@@ -8421,7 +8421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Остров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             841 => array
@@ -8431,7 +8431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Островной',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             842 => array
@@ -8441,7 +8441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Острогожск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             843 => array
@@ -8451,7 +8451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Отрадный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             844 => array
@@ -8461,7 +8461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Оха',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             845 => array
@@ -8471,7 +8471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Оханск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             846 => array
@@ -8481,7 +8481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Очёр',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             847 => array
@@ -8491,7 +8491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Палласовка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             848 => array
@@ -8501,7 +8501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Партизанск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             849 => array
@@ -8511,7 +8511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Певек',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             850 => array
@@ -8521,7 +8521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Первомайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             851 => array
@@ -8531,7 +8531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Перевоз',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             852 => array
@@ -8541,7 +8541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пересвет',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             853 => array
@@ -8551,7 +8551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пестово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             854 => array
@@ -8561,7 +8561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петров Вал',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             855 => array
@@ -8571,7 +8571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             856 => array
@@ -8581,7 +8581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петровск-Забайкальский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             857 => array
@@ -8591,7 +8591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петухово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             858 => array
@@ -8601,7 +8601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Петушки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             859 => array
@@ -8611,7 +8611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Печоры',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             860 => array
@@ -8621,7 +8621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пионерский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             861 => array
@@ -8631,7 +8631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Питкяранта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             862 => array
@@ -8641,7 +8641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Плёс',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             863 => array
@@ -8651,7 +8651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Плавск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             864 => array
@@ -8661,7 +8661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пласт',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             865 => array
@@ -8671,7 +8671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Поворино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             866 => array
@@ -8681,7 +8681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Покачи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             867 => array
@@ -8691,7 +8691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Покров',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             868 => array
@@ -8701,7 +8701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Покровск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             869 => array
@@ -8711,7 +8711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Полесск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             870 => array
@@ -8721,7 +8721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Полысаево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             871 => array
@@ -8731,7 +8731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Полярные Зори',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             872 => array
@@ -8741,7 +8741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Полярный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             873 => array
@@ -8751,7 +8751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Поронайск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             874 => array
@@ -8761,7 +8761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Порхов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             875 => array
@@ -8771,7 +8771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Похвистнево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             876 => array
@@ -8781,7 +8781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Почеп',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             877 => array
@@ -8791,7 +8791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Починок',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             878 => array
@@ -8801,7 +8801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пошехонье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             879 => array
@@ -8811,7 +8811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Правдинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             880 => array
@@ -8821,7 +8821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Приволжск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             881 => array
@@ -8831,7 +8831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Приморск (Калининградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             882 => array
@@ -8841,7 +8841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Приморск (Ленинградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             883 => array
@@ -8851,7 +8851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Приморско-Ахтарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             884 => array
@@ -8861,7 +8861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пролетарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             885 => array
@@ -8871,7 +8871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пугачёв',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             886 => array
@@ -8881,7 +8881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пудож',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             887 => array
@@ -8891,7 +8891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пустошка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             888 => array
@@ -8901,7 +8901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пучеж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             889 => array
@@ -8911,7 +8911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пыталово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             890 => array
@@ -8921,7 +8921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Пыть-Ях',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             891 => array
@@ -8931,7 +8931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Радужный (Владимирская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             892 => array
@@ -8941,7 +8941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Радужный (Ханты-Мансийский АО - Югра)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             893 => array
@@ -8951,7 +8951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Райчихинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             894 => array
@@ -8961,7 +8961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рассказово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             895 => array
@@ -8971,7 +8971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Реж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             896 => array
@@ -8981,7 +8981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Родники',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             897 => array
@@ -8991,7 +8991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рославль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             898 => array
@@ -9001,7 +9001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ростов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             899 => array
@@ -9011,7 +9011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ртищево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             900 => array
@@ -9021,7 +9021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рудня',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             901 => array
@@ -9031,7 +9031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Руза',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             902 => array
@@ -9041,7 +9041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рыбное',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             903 => array
@@ -9051,7 +9051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Рыльск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             904 => array
@@ -9061,7 +9061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ряжск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             905 => array
@@ -9071,7 +9071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Салаир',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             906 => array
@@ -9081,7 +9081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Салехард',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             907 => array
@@ -9091,7 +9091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сасово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             908 => array
@@ -9101,7 +9101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сафоново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             909 => array
@@ -9111,7 +9111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саяногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             910 => array
@@ -9121,7 +9121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             911 => array
@@ -9131,7 +9131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Светлогорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             912 => array
@@ -9141,7 +9141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Светлоград',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             913 => array
@@ -9151,7 +9151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Светлый',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             914 => array
@@ -9161,7 +9161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Свирск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             915 => array
@@ -9171,7 +9171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Себеж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             916 => array
@@ -9181,7 +9181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Северо-Курильск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             917 => array
@@ -9191,7 +9191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Североуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             918 => array
@@ -9201,7 +9201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Севск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             919 => array
@@ -9211,7 +9211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сегежа',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             920 => array
@@ -9221,7 +9221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сельцо',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             921 => array
@@ -9231,7 +9231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Семёнов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             922 => array
@@ -9241,7 +9241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Семикаракорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             923 => array
@@ -9251,7 +9251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Семилуки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             924 => array
@@ -9261,7 +9261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сенгилей',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             925 => array
@@ -9271,7 +9271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Серафимович',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             926 => array
@@ -9281,7 +9281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сергач',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             927 => array
@@ -9291,7 +9291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сердобск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             928 => array
@@ -9301,7 +9301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сибай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             929 => array
@@ -9311,7 +9311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сим',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             930 => array
@@ -9321,7 +9321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сковородино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             931 => array
@@ -9331,7 +9331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Скопин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             932 => array
@@ -9341,7 +9341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Славгород',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             933 => array
@@ -9351,7 +9351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Славск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             934 => array
@@ -9361,7 +9361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Славянск-на-Кубани',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             935 => array
@@ -9371,7 +9371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Слободской',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             936 => array
@@ -9381,7 +9381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Слюдянка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             937 => array
@@ -9391,7 +9391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Снежногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             938 => array
@@ -9401,7 +9401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Собинка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             939 => array
@@ -9411,7 +9411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Советск (Кировская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             940 => array
@@ -9421,7 +9421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Советск (Тульская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             941 => array
@@ -9431,7 +9431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Советская Гавань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             942 => array
@@ -9441,7 +9441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Советский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             943 => array
@@ -9451,7 +9451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Солигалич',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             944 => array
@@ -9461,7 +9461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Соль-Илецк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             945 => array
@@ -9471,7 +9471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сольвычегодск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             946 => array
@@ -9481,7 +9481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сольцы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             947 => array
@@ -9491,7 +9491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сорочинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             948 => array
@@ -9501,7 +9501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             949 => array
@@ -9511,7 +9511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сортавала',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             950 => array
@@ -9521,7 +9521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сосенский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             951 => array
@@ -9531,7 +9531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сосновка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             952 => array
@@ -9541,7 +9541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сосновоборск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             953 => array
@@ -9551,7 +9551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сосногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             954 => array
@@ -9561,7 +9561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Спас-Деменск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             955 => array
@@ -9571,7 +9571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Спас-Клепики',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             956 => array
@@ -9581,7 +9581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Спасск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             957 => array
@@ -9591,7 +9591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Спасск-Дальний',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             958 => array
@@ -9601,7 +9601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Спасск-Рязанский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             959 => array
@@ -9611,7 +9611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Среднеколымск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             960 => array
@@ -9621,7 +9621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Среднеуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             961 => array
@@ -9631,7 +9631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сретенск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             962 => array
@@ -9641,7 +9641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Старица',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             963 => array
@@ -9651,7 +9651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Стародуб',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             964 => array
@@ -9661,7 +9661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Стрежевой',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             965 => array
@@ -9671,7 +9671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Строитель',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             966 => array
@@ -9681,7 +9681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Струнино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             967 => array
@@ -9691,7 +9691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Суворов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             968 => array
@@ -9701,7 +9701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Суджа',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             969 => array
@@ -9711,7 +9711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Судогда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             970 => array
@@ -9721,7 +9721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Суздаль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             971 => array
@@ -9731,7 +9731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Суоярви',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             972 => array
@@ -9741,7 +9741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сураж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             973 => array
@@ -9751,7 +9751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Суровикино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             974 => array
@@ -9761,7 +9761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сурск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             975 => array
@@ -9771,7 +9771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сусуман',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             976 => array
@@ -9781,7 +9781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сухиничи',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             977 => array
@@ -9791,7 +9791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сухой Лог',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             978 => array
@@ -9801,7 +9801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сысерть',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             979 => array
@@ -9811,7 +9811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Сычёвка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             980 => array
@@ -9821,7 +9821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тавда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             981 => array
@@ -9831,7 +9831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тайга',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             982 => array
@@ -9841,7 +9841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тайшет',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             983 => array
@@ -9851,7 +9851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Талдом',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             984 => array
@@ -9861,7 +9861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Талица',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             985 => array
@@ -9871,7 +9871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тара',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             986 => array
@@ -9881,7 +9881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тарко-Сале',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             987 => array
@@ -9891,7 +9891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Таруса',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             988 => array
@@ -9901,7 +9901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Татарск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             989 => array
@@ -9911,7 +9911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Таштагол',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             990 => array
@@ -9921,7 +9921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Теберда',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             991 => array
@@ -9931,7 +9931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тейково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             992 => array
@@ -9941,7 +9941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Темников',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             993 => array
@@ -9951,7 +9951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Темрюк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             994 => array
@@ -9961,7 +9961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Терек',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             995 => array
@@ -9971,7 +9971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тетюши',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             996 => array
@@ -9981,7 +9981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тимашевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             997 => array
@@ -9991,7 +9991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тогучин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             998 => array
@@ -10001,7 +10001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Томари',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             999 => array
@@ -10011,7 +10011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Томмот',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1000 => array
@@ -10021,7 +10021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Топки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1001 => array
@@ -10031,7 +10031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Торжок',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1002 => array
@@ -10041,7 +10041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Торопец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1003 => array
@@ -10051,7 +10051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тотьма',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1004 => array
@@ -10061,7 +10061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Трёхгорный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1005 => array
@@ -10071,7 +10071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Трубчевск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1006 => array
@@ -10081,7 +10081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Туймазы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1007 => array
@@ -10091,7 +10091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тулун',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1008 => array
@@ -10101,7 +10101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Туран',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1009 => array
@@ -10111,7 +10111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Туринск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1010 => array
@@ -10121,7 +10121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тутаев',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1011 => array
@@ -10131,7 +10131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тында',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1012 => array
@@ -10141,7 +10141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тырныауз',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1013 => array
@@ -10151,7 +10151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Тюкалинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1014 => array
@@ -10161,7 +10161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Уварово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1015 => array
@@ -10171,7 +10171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Углегорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1016 => array
@@ -10181,7 +10181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Углич',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1017 => array
@@ -10191,7 +10191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Удачный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1018 => array
@@ -10201,7 +10201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Удомля',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1019 => array
@@ -10211,7 +10211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ужур',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1020 => array
@@ -10221,7 +10221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Унеча',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1021 => array
@@ -10231,7 +10231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Урай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1022 => array
@@ -10241,7 +10241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Урень',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1023 => array
@@ -10251,7 +10251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Уржум',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1024 => array
@@ -10261,7 +10261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Урюпинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1025 => array
@@ -10271,7 +10271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1026 => array
@@ -10281,7 +10281,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усмань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1027 => array
@@ -10291,7 +10291,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усолье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1028 => array
@@ -10301,7 +10301,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усолье-Сибирское',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1029 => array
@@ -10311,7 +10311,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усть-Джегута',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1030 => array
@@ -10321,7 +10321,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усть-Катав',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1031 => array
@@ -10331,7 +10331,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усть-Кут',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1032 => array
@@ -10341,7 +10341,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Усть-Лабинск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1033 => array
@@ -10351,7 +10351,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Устюжна',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1034 => array
@@ -10361,7 +10361,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Учалы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1035 => array
@@ -10371,7 +10371,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Уяр',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1036 => array
@@ -10381,7 +10381,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фатеж',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1037 => array
@@ -10391,7 +10391,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фокино (Брянская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1038 => array
@@ -10401,7 +10401,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фокино (Приморский край)\n',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1039 => array
@@ -10411,7 +10411,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фролово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1040 => array
@@ -10421,7 +10421,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Фурманов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1041 => array
@@ -10431,7 +10431,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хадыженск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1042 => array
@@ -10441,7 +10441,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Харабали',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1043 => array
@@ -10451,7 +10451,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Харовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1044 => array
@@ -10461,7 +10461,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хвалынск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1045 => array
@@ -10471,7 +10471,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хилок',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1046 => array
@@ -10481,7 +10481,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Холм',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1047 => array
@@ -10491,7 +10491,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Холмск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1048 => array
@@ -10501,7 +10501,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Хотьково',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1049 => array
@@ -10511,7 +10511,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Цивильск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1050 => array
@@ -10521,7 +10521,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Цимлянск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1051 => array
@@ -10531,7 +10531,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чёрмоз',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1052 => array
@@ -10541,7 +10541,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чадан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1053 => array
@@ -10551,7 +10551,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чаплыгин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1054 => array
@@ -10561,7 +10561,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чебаркуль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1055 => array
@@ -10571,7 +10571,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чегем',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1056 => array
@@ -10581,7 +10581,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чекалин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1057 => array
@@ -10591,7 +10591,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чердынь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1058 => array
@@ -10601,7 +10601,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черемхово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1059 => array
@@ -10611,7 +10611,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черепаново',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1060 => array
@@ -10621,7 +10621,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чернушка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1061 => array
@@ -10631,7 +10631,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Черняховск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1062 => array
@@ -10641,7 +10641,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чистополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1063 => array
@@ -10651,7 +10651,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чкаловск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1064 => array
@@ -10661,7 +10661,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чудово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1065 => array
@@ -10671,7 +10671,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чулым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1066 => array
@@ -10681,7 +10681,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чусовой',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1067 => array
@@ -10691,7 +10691,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Чухлома',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1068 => array
@@ -10701,7 +10701,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шагонар',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1069 => array
@@ -10711,7 +10711,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шали',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1070 => array
@@ -10721,7 +10721,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шарыпово',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1071 => array
@@ -10731,7 +10731,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шарья',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1072 => array
@@ -10741,7 +10741,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шахтёрск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1073 => array
@@ -10751,7 +10751,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шахунья',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1074 => array
@@ -10761,7 +10761,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шацк',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1075 => array
@@ -10771,7 +10771,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шелехов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1076 => array
@@ -10781,7 +10781,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шенкурск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1077 => array
@@ -10791,7 +10791,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шилка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1078 => array
@@ -10801,7 +10801,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шимановск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1079 => array
@@ -10811,7 +10811,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шиханы',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1080 => array
@@ -10821,7 +10821,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шумерля',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1081 => array
@@ -10831,7 +10831,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Шумиха',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1082 => array
@@ -10841,7 +10841,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щёкино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1083 => array
@@ -10851,7 +10851,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щигры',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1084 => array
@@ -10861,7 +10861,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щучье',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1085 => array
@@ -10871,7 +10871,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Эртиль',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1086 => array
@@ -10881,7 +10881,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Югорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1087 => array
@@ -10891,7 +10891,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Южа',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1088 => array
@@ -10901,7 +10901,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Южно-Сухокумск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1089 => array
@@ -10911,7 +10911,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Южноуральск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1090 => array
@@ -10921,7 +10921,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юрьев-Польский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1091 => array
@@ -10931,7 +10931,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юрьевец',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1092 => array
@@ -10941,7 +10941,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юрюзань',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1093 => array
@@ -10951,7 +10951,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Юхнов',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1094 => array
@@ -10961,7 +10961,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ядрин',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1095 => array
@@ -10971,7 +10971,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ялуторовск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1096 => array
@@ -10981,7 +10981,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Янаул',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1097 => array
@@ -10991,7 +10991,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Яранск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1098 => array
@@ -11001,7 +11001,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Яровое',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1099 => array
@@ -11011,7 +11011,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ярцево',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1100 => array
@@ -11021,7 +11021,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ясногорск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1101 => array
@@ -11031,7 +11031,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ясный',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1102 => array
@@ -11041,7 +11041,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Яхрома',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1103 => array
@@ -11051,7 +11051,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алупка',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1104 => array
@@ -11061,7 +11061,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Алушта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1105 => array
@@ -11071,7 +11071,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Армянск\r\n',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1106 => array
@@ -11081,7 +11081,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Бахчисарай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1107 => array
@@ -11091,7 +11091,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Белогорск (Крым)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1108 => array
@@ -11101,7 +11101,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Джанкой',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1109 => array
@@ -11111,7 +11111,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Евпатория',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1110 => array
@@ -11121,7 +11121,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Инкерман',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1111 => array
@@ -11131,7 +11131,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Иннополис',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1112 => array
@@ -11141,7 +11141,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Керчь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1113 => array
@@ -11151,7 +11151,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Краснознаменск (Калининградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1114 => array
@@ -11161,7 +11161,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Красноперекопск',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1115 => array
@@ -11171,7 +11171,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Мирный (Архангельская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1116 => array
@@ -11181,7 +11181,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Озерск (Калининградская область)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1117 => array
@@ -11191,7 +11191,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Саки',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1118 => array
@@ -11201,7 +11201,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Севастополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1119 => array
@@ -11211,7 +11211,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Симферополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1120 => array
@@ -11221,7 +11221,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Старый Крым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1121 => array
@@ -11231,7 +11231,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Судак',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1122 => array
@@ -11241,7 +11241,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Циолковский',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1123 => array
@@ -11251,7 +11251,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Феодосия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1124 => array
@@ -11261,7 +11261,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Щелкино',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1125 => array
@@ -11271,7 +11271,7 @@ class CitiesTableSeeder extends Seeder
                 'name' => 'Ялта',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
         ));
     }

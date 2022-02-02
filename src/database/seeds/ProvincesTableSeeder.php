@@ -21,7 +21,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Адыгея',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             1 => array
@@ -31,7 +31,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Алтай',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             2 => array
@@ -41,7 +41,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Алтайский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             3 => array
@@ -51,7 +51,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Амурская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             4 => array
@@ -61,7 +61,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Архангельская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             5 => array
@@ -71,7 +71,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Астраханская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             6 => array
@@ -81,7 +81,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Башкортостан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             7 => array
@@ -91,7 +91,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Белгородская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             8 => array
@@ -101,7 +101,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Брянская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             9 => array
@@ -111,7 +111,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Бурятия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             10 => array
@@ -121,7 +121,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Владимирская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             11 => array
@@ -131,7 +131,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Волгоградская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             12 => array
@@ -141,7 +141,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Вологодская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             13 => array
@@ -151,7 +151,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Воронежская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             14 => array
@@ -161,7 +161,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Дагестан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             15 => array
@@ -171,7 +171,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Еврейская АО',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             16 => array
@@ -181,7 +181,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Забайкальский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             17 => array
@@ -191,7 +191,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ивановская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             18 => array
@@ -201,7 +201,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ингушетия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             19 => array
@@ -211,7 +211,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Иркутская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             20 => array
@@ -221,7 +221,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Кабардино-Балкария',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             21 => array
@@ -231,7 +231,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Калининградская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             22 => array
@@ -241,7 +241,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Калмыкия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             23 => array
@@ -251,7 +251,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Калужская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             24 => array
@@ -261,7 +261,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Камчатский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             25 => array
@@ -271,7 +271,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Карачаево-Черкессия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             26 => array
@@ -281,7 +281,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Карелия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             27 => array
@@ -291,7 +291,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Кемеровская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             28 => array
@@ -301,7 +301,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Кировская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             29 => array
@@ -311,7 +311,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Коми',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             30 => array
@@ -321,7 +321,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Костромская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             31 => array
@@ -331,7 +331,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Краснодарский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             32 => array
@@ -341,7 +341,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Красноярский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             33 => array
@@ -351,7 +351,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Курганская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             34 => array
@@ -361,7 +361,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Курская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             35 => array
@@ -371,7 +371,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ленинградская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             36 => array
@@ -381,7 +381,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Липецкая область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             37 => array
@@ -391,7 +391,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Магаданская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             38 => array
@@ -401,7 +401,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Марий Эл',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             39 => array
@@ -411,7 +411,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Мордовия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             40 => array
@@ -421,7 +421,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Москва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             41 => array
@@ -431,7 +431,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Московская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             42 => array
@@ -441,7 +441,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Мурманская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             43 => array
@@ -451,7 +451,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ненецкий АО',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             44 => array
@@ -461,7 +461,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Нижегородская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             45 => array
@@ -471,7 +471,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Новгородская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             46 => array
@@ -481,7 +481,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Новосибирская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             47 => array
@@ -491,7 +491,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Омская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             48 => array
@@ -501,7 +501,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Оренбургская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             49 => array
@@ -511,7 +511,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Орловская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             50 => array
@@ -521,7 +521,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Пензенская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             51 => array
@@ -531,7 +531,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Пермский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             52 => array
@@ -541,7 +541,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Приморский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             53 => array
@@ -551,7 +551,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Псковская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             54 => array
@@ -561,7 +561,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ростовская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             55 => array
@@ -571,7 +571,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Рязанская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             56 => array
@@ -581,7 +581,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Самарская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             57 => array
@@ -591,7 +591,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Санкт-Петербург',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             58 => array
@@ -601,7 +601,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Саратовская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             59 => array
@@ -611,7 +611,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Саха array (Якутия)',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             60 => array
@@ -621,7 +621,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Сахалинская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             61 => array
@@ -631,7 +631,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Свердловская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             62 => array
@@ -641,7 +641,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Северная Осетия - Алания',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             63 => array
@@ -651,7 +651,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Смоленская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             64 => array
@@ -661,7 +661,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ставропольский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             65 => array
@@ -671,7 +671,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Тамбовская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             66 => array
@@ -681,7 +681,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Татарстан',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             67 => array
@@ -691,7 +691,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Тверская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             68 => array
@@ -701,7 +701,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Томская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             69 => array
@@ -711,7 +711,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Тульская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             70 => array
@@ -721,7 +721,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Тыва',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             71 => array
@@ -731,7 +731,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Тюменская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             72 => array
@@ -741,7 +741,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Удмуртия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             73 => array
@@ -751,7 +751,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ульяновская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             74 => array
@@ -761,7 +761,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Хабаровский край',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             75 => array
@@ -771,7 +771,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Хакасия',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             76 => array
@@ -781,7 +781,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ханты-Мансийский АО - Югра',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             77 => array
@@ -791,7 +791,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Челябинская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             78 => array
@@ -801,7 +801,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Чеченская республика',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             79 => array
@@ -811,7 +811,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Чувашская республика',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             80 => array
@@ -821,7 +821,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Чукотский АО',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             81 => array
@@ -831,7 +831,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ямало-Ненецкий АО',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             82 => array
@@ -841,7 +841,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Ярославская область',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             83 => array
@@ -851,7 +851,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Крым',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
 
             84 => array
@@ -861,7 +861,7 @@ class ProvincesTableSeeder extends Seeder
                 'name' => 'Севастополь',
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                'status' => '0',
+                'status' => '1',
             ),
         ));
 
